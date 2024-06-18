@@ -1,1 +1,4 @@
-postgres:15-alpine registry.cn-hangzhou.aliyuncs.com/docker-risingwave/postgres:15-alpine
+grafana/grafana-oss:latest registry.cn-hangzhou.aliyuncs.com/docker-risingwave/grafana-oss:latest
+quay.io/minio/minio:latest registry.cn-hangzhou.aliyuncs.com/docker-risingwave/minio:latest
+prom/prometheus:latest registry.cn-hangzhou.aliyuncs.com/docker-risingwave/prometheus:latest
+docker.vectorized.io/vectorized/redpanda:latest registry.cn-hangzhou.aliyuncs.com/docker-risingwave/redpanda:latest
