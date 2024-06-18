@@ -1,1 +1,1 @@
-risingwavelabs/risingwave:latest registry.cn-hangzhou.aliyuncs.com/docker-risingwave/risingwave:latest
+postgres:15-alpine registry.cn-hangzhou.aliyuncs.com/docker-risingwave/postgres:15-alpine
