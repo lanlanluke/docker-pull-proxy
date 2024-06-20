@@ -1,4 +1,1 @@
-grafana/grafana-oss:latest registry.cn-hangzhou.aliyuncs.com/docker-risingwave/grafana-oss:latest
-quay.io/minio/minio:latest registry.cn-hangzhou.aliyuncs.com/docker-risingwave/minio:latest
-prom/prometheus:latest registry.cn-hangzhou.aliyuncs.com/docker-risingwave/prometheus:latest
-docker.vectorized.io/vectorized/redpanda:latest registry.cn-hangzhou.aliyuncs.com/docker-risingwave/redpanda:latest
+risingwavelabs/risingwave:latest registry.cn-hangzhou.aliyuncs.com/docker-risingwave/risingwave-standalone:latest
